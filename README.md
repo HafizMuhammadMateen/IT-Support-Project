@@ -52,14 +52,15 @@ IT Support Pulse is a comprehensive IT support management system that integrates
 ```bash
 cd backend
 npm install
-npm start
+npm run initalize
+node server
 ```
 
 ### **2. Frontend Setup**
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 ## Deployment & Contribution
