@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Sidebar: Fixed Position */
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #f8fafc; /* Light gray */
+    padding: 1rem;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Main Content: Scrollable */
+  .main-content {
+    margin-left: 260px; /* Adjust to match sidebar width */
+    height: 100vh;
+    overflow-y: auto; /* Enables scrolling only for this section */
+    padding: 1rem;
+    background: #ffffff; /* Simple background */
+  }
+  
+  /* Knowledge Base Card */
+  .knowledge-base {
+    background: #fdfdfd; /* Light white/gray */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
