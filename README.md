@@ -72,4 +72,5 @@ This project is open-source and available for further improvements by the commun
 
 ---
 ### Contact Information
-For queries or support, reach out to the project maintainers.
+For queries or support, contact **Hafiz Muhammad Mateen** at **muhammadmateen546@gmail.com**.
+
